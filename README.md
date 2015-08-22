@@ -1,7 +1,7 @@
 # NyariNewsNov2015
 First: DON'T PANIC!
 
-Git and github are very easy to use. Watch this 20 minute video to learn how ... layout. You can learn how to use github by watching this 20-minute video https://www.youtube.com/watch?v=0fKg7e37bQE
+Git and github are very easy to use. Watch this 20 minute video to learn how ... https://www.youtube.com/watch?v=0fKg7e37bQE
 
 This is the repository for the next Nyari Newsletter - July 2015. If you are in here collaborating with me on this please clone the repository in the usual manner and push your changes to it as you work on the documents. Thank you for your help.
 
